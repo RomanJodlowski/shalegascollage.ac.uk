@@ -67,7 +67,7 @@ p {
     background-image: url(../img/1.view.jpg);
     background-repeat: no-repeat;
     background-position: 45% top;
-    height: 800px;
+    height: 500px;
     min-height: 500px;
     margin-left: -40px;
     margin-right: -40px;
@@ -104,7 +104,7 @@ p {
 }
 
 .tm-mainn-bg {
-    background-image: url(../img/4.bad\ view.jpg);
+    background-image: url(../img/4.bad_view.jpg);
     background-repeat: no-repeat;
     background-position: 45% top;
     height: 700px;
